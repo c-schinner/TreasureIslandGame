@@ -1,4 +1,3 @@
-# TreasureIslandGame
 # Treasure Island Adventure
 Welcome to Treasure Island, an interactive text-based adventure game! Your mission is to find the hidden treasure on the mysterious island. Are you ready to embark on this exciting journey?
 
